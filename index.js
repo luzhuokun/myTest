@@ -1,3 +1,2 @@
 
-console.log('helloword')
-console.log('helloword2')
+console.log('mytest_lzktest')
